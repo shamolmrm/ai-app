@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673424731902",
+    "project_id": "ai-assistant-shamol",
+    "storage_bucket": "ai-assistant-shamol.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673424731902:android:7019d47ea42422485b3faf",
+        "android_client_info": {
+          "package_name": "com.aiassistant.ai_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_D53Yjut1srPBZ-IUi2PWR2QtHkAVKy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
